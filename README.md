@@ -1,13 +1,15 @@
 # odin-recipes
-Created for Project: Recipes  - Foundation course  the Odin course
+Created for Project: Recipes  - Foundation Course  the Odin Project
 
 ## Skills practiced in this project
 - Git
     - Setting up repository on Git
     - Cloning on local machine
+    - Practicing commits with comments and pushes; checking status
 - HTML
-    - Buding a simle website with HTML
-    - Whatever
+    - Buding a simple website with HTML
+    - Using VSCode to create and edit HTML.
+      -- Getting used to the shortcuts adn colour coding to speed/aid developemnt
 
 
 - CSS (to come later)
