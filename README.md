@@ -11,3 +11,6 @@ Created for Project: Recipes  - Foundation course  the Odin course
 
 
 - CSS (to come later)
+
+## Link to view from GitHub
+- Jeniloracm.github.io/odin-recipes
