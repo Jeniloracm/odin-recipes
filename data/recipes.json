@@ -1,0 +1,14 @@
+{
+  "recipes": [
+    {
+      "category": "main-courses",
+      "name": "Spaghetti",
+      "image": "images/recipes/main-courses/spaghetti.jpg"
+    },
+    {
+      "category": "desserts",
+      "name": "Chocolate Cake",
+      "image": "images/recipes/desserts/chocolate-cake.jpg"
+    }
+  ]
+}
